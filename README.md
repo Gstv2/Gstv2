@@ -17,12 +17,15 @@ Here are some ideas to get you started:
 
 ##
 
-<a href="https://github.com/Gstv2/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gstv2&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/Gstv2/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gstv2&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div style="display: flex;">
+  <a href="https://github.com/Gstv2/github-readme-stats" style="margin-right: 10px;">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gstv2&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/Gstv2/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gstv2&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
