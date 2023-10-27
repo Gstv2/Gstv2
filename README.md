@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ##
 
 <div style="display: flex;">
-  <a href="https://github.com/Gstv2/github-readme-stats" style="margin-right: 5px;">
+  <a href="https://github.com/Gstv2/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gstv2&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/Gstv2/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gstv2&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=300" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gstv2&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=200" />
   </a>
 </div>
 
